@@ -1,5 +1,5 @@
 ---
-description: 주식일기
+description: 배수한 투자일기
 ---
 
 # Investment-diary
