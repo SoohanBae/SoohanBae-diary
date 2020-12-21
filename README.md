@@ -1,8 +1,8 @@
 ---
-description: 배수한 투자일기
+description: 배수한 일기
 ---
 
-# Investment-diary
+# SoohanBae-diary
 
 
 
